@@ -25,7 +25,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: academicons/cv
-    url: 'www.google.com'
+    url: www.google.com
   - icon: at-symbol
     url: 'mailto:lizechao19@mails.tsinghua.edu.cn'
     label: E-mail Me
@@ -55,7 +55,7 @@ education:
     date_start: 2015
     date_end: 2019
     
-  - area: Chinese National Training Team for [International Mathematical Olympiad](https://www.imo-official.org/)
+  - area: Chinese National Training Team for <a href="https://www.imo-official.org/" title="International Mathematical Olympiad"></a>
     date_start: 2014
 
 
