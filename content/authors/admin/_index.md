@@ -46,7 +46,7 @@ education:
   - area: Ph.D. in Management Science and Engineering
     institution: Tsinghua University
     date_start: 2019
-    date_end: 2025-06 (Degree expected)
+    date_end: 2025-06
     
   - area: B.S. in Economics and Finance
     institution: Tsinghua University
@@ -55,7 +55,6 @@ education:
     
   - area: Chinese National Training Team for [International Mathematical Olympiad](https://www.imo-official.org/)
     date_start: 2014-12
-    date_end: 2019
 
 
 # Skills
