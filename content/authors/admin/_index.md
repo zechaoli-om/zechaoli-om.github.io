@@ -55,7 +55,7 @@ education:
     date_start: 2015
     date_end: 2019
     
-  - area: Chinese National Training Team for <a href="https://www.imo-official.org/" title="International Mathematical Olympiad"></a>
+  - area: Chinese National Training Team for [International Mathematical Olympiad](https://www.imo-official.org)
     date_start: 2014
 
 
