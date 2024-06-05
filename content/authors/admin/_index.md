@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zechao Li $\cdot$ 李泽超
+title: Zechao Li
 
 
 # Full name (for SEO)
@@ -24,7 +24,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: icon-cv
+  - icon: academicons/cv
     url: 'www.google.com'
   - icon: at-symbol
     url: 'mailto:lizechao19@mails.tsinghua.edu.cn'
