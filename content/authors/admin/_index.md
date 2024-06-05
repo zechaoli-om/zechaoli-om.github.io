@@ -1,9 +1,7 @@
 ---
 # Display name
-title: 李泽超
+title: Zechao Li $\cdot$ 李泽超
 
-# Name pronunciation (optional)
-name_pronunciation: Xe Chao Li
 
 # Full name (for SEO)
 first_name: Zechao
@@ -26,15 +24,19 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: cv
+    url: 'www.google.com'
   - icon: at-symbol
     url: 'mailto:lizechao19@mails.tsinghua.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/zcl0056
-  - icon: brands/linkedin
-    url: linkedin.com/in/zechaoli-om
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=b9qjm_IAAAAJ&hl=en
+  - icon: brands/linkedin
+    url: linkedin.com/in/zechaoli-om
+  - icon: brands/x
+    url: https://twitter.com/zcl0056
+  
+  
 
 
 interests:
